@@ -425,7 +425,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero {
-  background: url('https://scontent.fbga2-1.fna.fbcdn.net/v/t39.30808-6/461292680_27041711312142046_206121398057109447_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9eae26&_nc_eui2=AeEFNpIWcPpC8uUXuoF7TqoB1DL6PzmCcQnUMvo_OYJxCWu3IMwQWNiMgga3PapJma4FoT9rgkiBS9-Yh9xpYYAQ&_nc_ohc=51NVCHWc4QEQ7kNvgHJP7At&_nc_zt=23&_nc_ht=scontent.fbga2-1.fna&_nc_gid=Aurdd1l1TsggCpim4vRstLc&oh=00_AYCbs408yT30TBYWJASEV_tCrYhbWgUatj9jxhww4eZH3A&oe=67132872') center no-repeat;
+  background: url('../img/yeison.jpg') center no-repeat;
   height: 100%;
   width: 100%;
   display: table;
