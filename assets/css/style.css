@@ -1651,8 +1651,7 @@ html, body {
 
 .timeline > li > .timeline-panel .timeline-heading {
   background-color: #666;
-  line-height: 50px;
-  height: 50px;
+  height: auto;
 }
 
 .timeline > li > .timeline-panel .timeline-heading p {
@@ -1767,7 +1766,7 @@ html, body {
     float: left;
   }
   .timeline > li .timeline-rectangle {
-    left: 76%;
+    display: none;
   }
   .timeline > li.timeline-inverted .timeline-heading {
     text-align: left;
